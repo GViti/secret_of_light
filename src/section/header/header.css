@@ -1,7 +1,7 @@
 header{
     padding: 20px;
     display: flex;
-    justify-content: left;
+    justify-content: space-between;
     position: fixed;
     top: 0;
     left: 0;
@@ -20,3 +20,12 @@ header{
     object-fit: cover;
 }
 
+.contact-us{
+    width: 120px;
+    height: 45px;
+    border-radius: 14px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: red;
+}
