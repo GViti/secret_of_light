@@ -1,0 +1,39 @@
+/* Stile per il contenitore del popup */
+.popup {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    background-color: rgba(0, 0, 0, 0.5); /* Sfondo semi-trasparente */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 1000; /* Porta il popup in primo piano */
+  }
+  
+  /* Stile per il contenuto del popup */
+  .popup-content {
+    background-color: #A80000;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2); /* Ombreggiatura */
+    text-align: center;
+    width: 300px;
+  }
+  
+  /* Stile per il pulsante di chiusura */
+  .popup-content button {
+    background-color: #486EB9;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 20px;
+  }
+  
+  .popup-content button:hover {
+    background-color: #6DA9DF; /* Cambia colore quando si passa sopra con il mouse */
+  }
+  
