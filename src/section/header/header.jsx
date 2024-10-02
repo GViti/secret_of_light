@@ -9,7 +9,7 @@ function HeaderMenu(){
                     <img src={logo} alt="Logo Secret of Light" />
                 </div>
                 <div className="contact-us">
-                        <h4><a href="#form-landing">Contattaci</a></h4>
+                        <h4><a href="#form">Contattaci</a></h4>
                     </div>
         </header>
     );

@@ -14,7 +14,7 @@ function Footer(){
                 <div>
                     <h2>Accendiamo idee brillanti insieme!</h2>
                         <div className="contact-us footer-cus">
-                            <h4><a href="#form-landing">Contattaci</a></h4>
+                            <h4><a href="#form">Contattaci</a></h4>
                         </div>
                 </div>
                 

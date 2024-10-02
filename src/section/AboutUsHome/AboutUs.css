@@ -2,8 +2,11 @@
 
 .home-about-us{
     background-color: #e9e1d9;
-    padding: 40px 10px;
+    padding: 80px 30px;
     color: #333;
+    display: flex;
+    justify-content: end;
+    align-items: center;
 }
 
 .home-about-us p{
@@ -15,4 +18,11 @@
     display: flex;
     flex-direction: column;
     gap: 14px;
+}
+
+@media only screen and (max-width:750px){
+    .home-about-us{      
+        padding: 20px 30px;  
+        flex-direction: column; 
+    }
 }
