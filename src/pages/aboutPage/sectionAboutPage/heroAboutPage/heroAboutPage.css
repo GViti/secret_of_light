@@ -1,0 +1,40 @@
+.hero-about{
+    background-color: #f3ede6;
+    padding: 30px;  
+    color: #000;
+    margin-top: 100px;
+}
+
+.hero-about-content{
+    max-width: 1440px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column-reverse;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.hero-about-txt{
+    width: 100%;
+    text-align:  left;
+
+}
+
+.img-logo-animated{
+    display: none;
+}
+
+@media only screen and (min-width: 800px){
+    .hero-about{
+        padding: 80px;
+    }
+
+    .hero-about-content{
+        flex-direction: row;
+    }
+
+    .img-logo-animated{
+        display: block;
+        width: 50%;
+    }
+}

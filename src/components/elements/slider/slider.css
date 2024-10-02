@@ -1,0 +1,67 @@
+.slider-container {
+    position: relative;
+    overflow: hidden;
+    width: 100%;
+    max-width: 1440px;
+    margin: 20px auto;
+}
+
+.slider {
+    display: flex;
+    overflow-x: auto;
+    scroll-behavior: smooth;
+}
+
+.slide {
+    flex: 0 0 auto; /* Ensure the slides do not shrink or grow */
+    width: calc((100% - 40px) / 6); /* Adjust to fit 3 items within the container with 20px gap */
+    margin-right: 20px; /* Gap between slides */
+}
+
+.btn-slider {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    background-color: rgba(0, 0, 0, 0.5);
+    color: white;
+    border: none;
+    cursor: pointer;
+    padding: 10px;
+    z-index: 10;
+}
+
+.btn-slider.prev {
+    left: 10px;
+}
+
+.btn-slider.next {
+    right: 10px;
+}
+
+@media only screen and (max-width: 1024px){
+    .slide {
+        width: calc((100% - 40px) / 4); 
+    }
+}
+
+@media only screen and (max-width: 674px){
+    .slide {
+        width: calc((100% - 40px) / 3); 
+    }
+}
+
+@media only screen and (max-width: 510px){
+    .slide {
+        width: calc((100% - 40px) / 2); 
+    }
+}
+
+@media only screen and (max-width: 364px){
+    .slide {
+        width: calc((100% - 40px) / 1.5); 
+    }
+}
+
+.slider::-webkit-scrollbar {
+    display: none;  /* Chrome, Safari, and Opera */
+}

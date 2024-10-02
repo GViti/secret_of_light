@@ -1,0 +1,92 @@
+[
+    {
+        "id": "1",
+        "nome": "And Justice for All European tour 2024",
+        "luogo": "Forum di Assago",
+        "artista": "Metallica",
+        "data": "2024-06-29",
+        "descrizione": "Unisciti ai Metallica nel loro epico tour europeo, un viaggio attraverso alcune delle citt\u00e0 pi\u00f9 iconiche e vibranti del continente. Partendo da Londra, la capitale britannica, i Metallica infiammeranno il pubblico con le loro esibizioni potenti e cariche di adrenalina. Il tour prosegue verso Berlino, dove la band porter\u00e0 il loro inconfondibile suono metal nelle venue storiche della citt\u00e0 tedesca, mescolando classici intramontabili e nuove hit che hanno conquistato le classifiche mondiali.",
+        "image": "img_custom\/metallica.jpg"
+    },
+    {
+        "id": "2",
+        "nome": "Wiz is Calling",
+        "luogo": "Roma",
+        "artista": "Wiz Khalifa",
+        "data": "2024-08-09",
+        "descrizione": "Wiz Khalifa attraversa l'Europa con il suo tour dinamico, toccando citt\u00e0 come Londra, Parigi e Berlino. Con il suo stile unico di rap e hip-hop, eseguir\u00e0 successi iconici come \"Black and Yellow\" e \"See You Again\". Ogni tappa del tour offre una serata carica di energia, con spettacoli di luci sorprendenti e un'atmosfera elettrizzante. I fan potranno immergersi nell'arte di uno dei rapper pi\u00f9 influenti della scena musicale contemporanea. Un evento imperdibile per tutti gli appassionati di musica!",
+        "image": "img_custom\/wiz.jpg"
+    },
+    {
+        "id": "3",
+        "nome": "Lizzo Style 2023\/24",
+        "luogo": "Rho Fiera",
+        "artista": "Lizzo",
+        "data": "2024-07-16",
+        "descrizione": "\r\nLizzo \u00e8 in tour, anime fragranti! Un favoloso tour europeo che far\u00e0 tappa nelle pi\u00f9 grandi citt\u00e0 del vecchio continente. Con la sua potente voce e carisma travolgente, eseguir\u00e0 brani amati come \"Truth Hurts\" e \"Juice\". Ogni concerto promette un'esperienza unica, con coreografie spettacolari, messaggi di empowerment e un'energia contagiosa. I fan avranno l'opportunit\u00e0 di vivere uno show indimenticabile, ricco di emozioni e positivit\u00e0. Un evento imperdibile per tutti gli amanti della buona musica e del divertimento!",
+        "image": "img_custom\/lizzo.jpg"
+    },
+    {
+        "id": "4",
+        "nome": "Un solo numero tour 2024",
+        "luogo": "Foggia",
+        "artista": "Carl Brave",
+        "data": "2024-08-10",
+        "descrizione": "\r\nCarl Brave sbarca in tour con l\u2019energia di un treno in corsa, incendiando le citt\u00e0 italiane. Roma, Milano, Firenze: niente \u00e8 al sicuro dalla sua poetica urbana. Con hit come \"Fotografia\" e \"Posso\", il palco esplode in un delirio di luci psichedeliche e ritmi coinvolgenti. La folla, un mare di anime in delirio, si fonde con le vibrazioni della sua musica, vivendo ogni nota come una scarica di adrenalina pura. Un viaggio sonoro che lascia il segno, crudo e autentico come la vita stessa.",
+        "image": "img_custom\/carlbrave.jpg"
+    },
+    {
+        "id": "5",
+        "nome": "Solo Lame 2024",
+        "luogo": "Roma Nord",
+        "artista": "Noyz Narcos",
+        "data": "2024-07-28",
+        "descrizione": "Il tour di Noyz Narcos \u00e8 come essere catapultati in un incubo che non finisce mai. Le sue citt\u00e0 sono ombre che si stagliano contro un cielo senza stelle, cariche di una tensione che taglia come coltelli affilati. Ogni concerto \u00e8 un tuffo nel vuoto, dove le parole affilate di Noyz perforano l'aria come grida disperate. Le luci accecanti acuiscono la sensazione di smarrimento, mentre la folla si contorce in un frenetico balletto di paura e euforia distorta.",
+        "image": "img_custom\/noyz.jpg"
+    },
+    {
+        "id": "6",
+        "nome": "Troupe d'elite 2023\/24",
+        "luogo": "Lucca",
+        "artista": "Ernia",
+        "data": "2024-03-01",
+        "descrizione": "Il tour \"Troupe D'Elite\" di Ernia \u00e8 un'esplosione di energia e talento che trasforma ogni palco in un campo di battaglia musicale. Con citt\u00e0 come Milano, Roma e Torino come teatri della sua arte, Ernia porta sul palco la potenza delle sue rime incendiarie e il carisma di un vero leader. Ogni concerto \u00e8 un viaggio emozionale attraverso le strade della sua esperienza personale, con canzoni che esplorano temi di crescita, resilienza e ambizione.\r\nIl palco si illumina di luci vibranti e visual dinamici, creando un'atmosfera viscerale che avvolge il pubblico. Le sue performance sono cariche di intensit\u00e0, guidate da una voce che cattura e trascina. I fan si uniscono in un coro potente, risuonando con ogni strofa che Ernia lancia nel buio della notte. \u00c8 un'esperienza che lascia un segno profondo, un viaggio sonoro che incanta e motiva, dimostrando perch\u00e9 Ernia \u00e8 considerato uno degli artisti pi\u00f9 dinamici della scena hip-hop italiana.",
+        "image": "img_custom\/ernia.jpg"
+    },
+    {
+        "id": "7",
+        "nome": "Dimmi perch\u00e9 sei timido",
+        "luogo": "Andezeno",
+        "artista": "Ruggero De I Timidi",
+        "data": "2023-08-01",
+        "descrizione": "Il tour di Ruggero dei Timidi \u00e8 un'esplosione di sensualit\u00e0 e provocazione nelle citt\u00e0 pi\u00f9 seducenti d'Italia. Da Napoli a Milano, da Palermo a Torino, ogni concerto \u00e8 un rituale di piacere musicale. Sul palco, Ruggero incanta con melodie ipnotiche e testi che bruciano di passione. Le luci trasformano l'ambiente in un'atmosfera sospesa tra desiderio e trasgressione, mentre la sua voce avvolge il pubblico in un abbraccio erotico. \u00c8 un'esperienza che trasforma il palco in un tempio del peccato, dove la musica diventa un linguaggio universale di seduzione e liberazione.",
+        "image": "img_custom\/ruggero.jpg"
+    },
+    {
+        "id": "8",
+        "nome": "The Marychain project",
+        "luogo": "Prato",
+        "artista": "Jesus & Marychain",
+        "data": "2023-01-20",
+        "descrizione": "Immagina il tour dei Jesus and Mary Chain negli anni '80 come un viaggio attraverso un labirinto sonoro di decadente bellezza post-punk. Le loro tourn\u00e9e trasformano le citt\u00e0 in rifugi notturni di ribellione e romanticismo oscuro. Da Londra a New York, le luci stroboscopiche creano un'atmosfera incantata mentre la band esegue brani come \"Just Like Honey\" e \"Head On\", con feedback e distorsioni che risuonano come una dichiarazione di guerra contro la conformit\u00e0.",
+        "image": "img_custom\/jesus.jpg"
+    },
+    {
+        "id": "9",
+        "nome": "Hollabaloo ",
+        "luogo": "Verona",
+        "artista": "Muse",
+        "data": "2020-06-13",
+        "descrizione": "Il tour dei Muse \u00e8 un'epica odissea musicale che incendia le principali citt\u00e0 globali. Da Londra a Los Angeles, il palco si trasforma in un'arena futuristica di luci laser e scenografie mozzafiato. La band, al culmine della sua potenza creativa, mescola rock progressivo con elettronica ed effetti visivi innovativi, creando un'esperienza sensoriale senza pari. Brani come \"Uprising\" e \"Knights of Cydonia\" scuotono il pubblico, mentre la voce di Matt Bellamy e la maestria strumentale dominano lo spettacolo. Ogni concerto \u00e8 una celebrazione della musica in cui l'energia trascinante e l'originalit\u00e0 visionaria dei Muse fanno di ogni serata un evento indimenticabile, consolidando la loro reputazione come una delle band pi\u00f9 dinamiche e innovative del panorama musicale contemporaneo.",
+        "image": "img_custom\/muse.jpg"
+    },
+    {
+        "id": "10",
+        "nome": "Rock Invasion 2",
+        "luogo": "Manchester",
+        "artista": "Smashing Pumpkins ",
+        "data": "2020-06-01",
+        "descrizione": "Il tour \"Rock Invasion 2\" degli Smashing Pumpkins \u00e8 un'immersione nostalgica nel fascino iconico degli anni '90. Le citt\u00e0 si trasformano in rifugi di alternative rock, con Chicago, Seattle e San Francisco illuminate dalla luce malinconica delle loro canzoni. Sul palco, Billy Corgan e compagni evocano l'energia cruda e l'intensit\u00e0 emotiva dei loro classici come \"Today\" e \"Bullet with Butterfly Wings\". Le luci scintillanti e l'atmosfera decadente rievocano un'epoca di ribellione giovanile e speranza infranta, mentre i fan, con sguardi nostalgici, cantano ogni parola come un inno al passato. \u00c8 un tour che ricorda l'epoca d'oro del grunge e dell'alternative rock, quando la musica era una voce di protesta e una forma di catarsi per una generazione in cerca di identit\u00e0 e significato.",
+        "image": "img_custom\/thesmashing.jpg"
+    }
+]

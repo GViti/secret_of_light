@@ -1,0 +1,17 @@
+/*-----section home-about-us-----*/
+
+.home-about-us{
+    background-color: rgb(168, 0, 0);
+    padding: 40px 10px;
+}
+
+.home-about-us p{
+    width: 85%;
+    margin-bottom: 8px;
+}
+
+.testo-about-us{
+    display: flex;
+    flex-direction: column;
+    gap: 14px;
+}

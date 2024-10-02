@@ -1,0 +1,142 @@
+/* Container per il form */
+form {
+    width: 600px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    font-family: Arial, sans-serif;
+}
+
+/* Stile delle etichette */
+label {
+    display: block;
+    font-size: 16px;
+    font-weight: bold;
+    margin-bottom: 8px;
+    color: #000;
+}
+
+/* Stile per i campi di input */
+input[type="text"], input[type="number"], input[type="email"], input[type="tel"], textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 1px solid #ebebeb;
+    border-radius: 8px;
+    font-size: 14px;
+    box-sizing: border-box;
+    transition: border-color 0.3s ease-in-out;
+}
+
+/* Cambia colore del bordo quando il campo è attivo */
+input[type="text"]:focus, input[type="number"]:focus, input[type="email"]:focus, input[type="tel"]:focus, textarea:focus {
+    border-color: #007BFF;
+    outline: none;
+}
+
+/* Stile per il pulsante di invio */
+input[type="submit"] {
+    background-color: #A80000;
+    color: white;
+    border: none;
+    padding: 12px 20px;
+    font-size: 16px;
+    font-weight: bold;
+    border-radius: 8px;
+    cursor: pointer;
+    width: 45%;
+    transition: background-color 0.3s ease;
+}
+
+/* Cambia colore del pulsante al passaggio del mouse */
+input[type="submit"]:hover {
+    background-color: #d61515;
+}
+
+/* Piccolo margine per i campi in caso di schermi più piccoli */
+@media (max-width: 700px) {
+    form {
+        padding: 15px;
+        width: 350px;
+    }
+
+    label {
+        font-size: 14px;
+    }
+
+    input[type="submit"] {
+        font-size: 14px;
+        padding: 10px;
+    }
+}
+
+.contactForm{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 15px;
+}
+
+.contactForm h3, .contactForm h4{
+    text-align: center;
+    padding: 15px;
+}
+
+.inputPrivacy{
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+    gap: 10px;
+}
+
+.inputPrivacy label, .inputPrivacy input{
+    display: block;
+}
+
+
+label a{
+    color: #007BFF;
+    text-decoration: underline;
+}
+
+/* Stile per il modal */
+.modal {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: fixed;
+    z-index: 1000;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.modal h2{
+    text-align: center;
+}
+
+.modal p{
+    font-size: 18px;
+}
+
+.modal-content {
+    background-color: #333;
+    padding: 20px;
+    border-radius: 5px;
+    max-width: 500px;
+    width: 80%;
+    position: relative;
+}
+
+.close {
+    position: absolute;
+    top: 10px;
+    right: 20px;
+    font-size: 24px;
+    font-weight: bold;
+    cursor: pointer;
+}

@@ -1,0 +1,26 @@
+.products{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 25px;
+    margin: 20px auto;
+    align-items: start;
+    justify-content: center;
+}
+
+.main-prodotti{
+    color: #000;
+}
+
+.category-section{
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+@media only screen and (min-width: 748px){
+    .products{
+        justify-content: start;
+    }
+}

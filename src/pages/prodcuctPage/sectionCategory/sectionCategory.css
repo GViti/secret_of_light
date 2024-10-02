@@ -1,0 +1,40 @@
+/*category*/
+
+.category-list{
+    padding: 40px 0;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 14px;
+}
+
+.category-name{
+    width: 180px;
+    height: 180px;
+    /* position: relative; */
+}
+
+.category-name img{
+    width: 90%;
+    height: 90%;
+    border-radius: 400px;
+}
+
+.category-name p{
+    color: #000;
+}
+
+.category-txt{
+    padding: 40px 20px 20px 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    /* text-align: left; */
+}
+
+.select-category{
+    padding-top: 30px;
+    max-width: 1440px;
+    margin: 0 auto;
+}
