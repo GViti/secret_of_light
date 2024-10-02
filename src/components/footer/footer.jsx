@@ -38,12 +38,12 @@ function Footer(){
                 </div>
                 <nav className="footer-menu">
                     <ul>
-                        <li><Link to='/products'>Prodotti</Link></li>
+                        {/* <li><Link to='/products'>Prodotti</Link></li> */}
+                        <li><Link to='/'>Home</Link></li>
                         <li><Link to='/catalog'>Catalogo</Link></li>
-                        <li><Link to='/about'>Chi siamo</Link></li>
+                        {/* <li><Link to='/about'>Chi siamo</Link></li> */}
                     </ul>
                     <ul>
-                        <li><Link to='/'>Home</Link></li>
                         <li><Link to='/works'>Lavori</Link></li>
                         <li><Link to='/contacts'>Contatti</Link></li>
                     </ul>

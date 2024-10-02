@@ -1,9 +1,14 @@
 import React  from "react";
 import './contactsPage.css';
+import FormContatti from '../../components/Form/form.jsx';
+
 
 function ContactsPage(){
     return(
-        <h1>Contacts Page</h1>
+        <>
+            <FormContatti/>
+
+        </>
     )
 }
 

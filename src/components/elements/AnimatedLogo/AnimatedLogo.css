@@ -1,9 +1,9 @@
-.logo-anim-container {
+ .logo-anim-container {
   display: flex;
   justify-content: center;
   align-items: center;
 }
-
+/*
 .logo-anim {
   animation: spinAndZoom 2s linear;
 }
@@ -19,8 +19,9 @@
 
   }
 }
-
+*/
 /* Additional animations */
+/*
 .logo-anim circle {
   fill: none;
   stroke: #000;
@@ -59,4 +60,4 @@
   50% {
     opacity: 1;
   }
-}
+} */

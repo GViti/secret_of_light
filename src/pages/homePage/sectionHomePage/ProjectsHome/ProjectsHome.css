@@ -78,7 +78,7 @@ input[type=radio] {
     background-clip: border-box;
     -webkit-background-clip: text;
     background-clip: text;
-    -webkit-text-fill-color: transparent;
+    /* -webkit-text-fill-color: transparent; */
     border: 1px solid transparent;
     border-image: -webkit-linear-gradient(90deg, rgba(41,151,255,1) 9%, rgba(0,53,103,1) 100%);
     border-image-slice: 10;

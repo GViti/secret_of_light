@@ -76,12 +76,16 @@ input[type="submit"]:hover {
     display: flex;
     flex-direction: column;
     align-items: center;
-    gap: 15px;
+    gap: 7px;
+    padding: 25px;
+    background-color: #e2d9cd;
+    /* background: -webkit-linear-gradient(0deg, rgba(41, 151, 255, 1) 1%, rgba(0, 53, 103, 1) 100%); */
 }
 
 .contactForm h3, .contactForm h4{
     text-align: center;
-    padding: 15px;
+    /* padding: 15px; */
+    color: #000;
 }
 
 .inputPrivacy{

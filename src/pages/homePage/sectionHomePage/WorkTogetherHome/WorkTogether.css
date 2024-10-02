@@ -45,8 +45,10 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: red;
-    padding: 6px;
+    /* background-color: red; */
+    background: -webkit-linear-gradient(-27deg, rgb(255, 41, 41) 50%, rgb(103, 0, 0) 100%);
+    padding: 0px 12px;
+    font-weight: 600;
 }
 
 .img-work-togheter img{
